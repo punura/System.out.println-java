@@ -5,6 +5,7 @@ public class Main {
 		
 		System.out.println("\"I like pizza\"");
 		System.out.println("It's really good!");
+		System.out.println("Hello World!");
 
 	}
 
